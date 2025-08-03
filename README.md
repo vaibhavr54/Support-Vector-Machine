@@ -55,3 +55,13 @@ jupyter notebook
 ✅ **Algorithm expertise**: Effective SVM implementation and tuning  
 ✅ **Code quality**: Clean, documented, reproducible notebooks  
 ✅ **ML pipeline**: End-to-end implementation from data to results
+
+
+## 👨‍💻 Author
+**vaibhavr54** - [GitHub Profile](https://github.com/vaibhavr54)
+
+## 📞 Contact
+For questions or suggestions, please open an issue in this repository.
+
+---
+⭐ **Star this repository if you find it helpful!** ⭐
